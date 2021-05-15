@@ -9,6 +9,6 @@ public class AdditionTestCases {
 	@Test
 	public void testAddition() {
 		int actualResult = cal.addition(5, 5);
-		Assert.assertEquals(actualResult,20);
+		Assert.assertEquals(actualResult,10);
 	}
 }
