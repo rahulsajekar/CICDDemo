@@ -9,5 +9,6 @@ public class MultiplicationTestCases {
 	public void testMultiplication() {
 		int actualResult = cal.multiplication(10, 20);
 		Assert.assertEquals(actualResult, 200);
+		// works fine
 	}
 }
